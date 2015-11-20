@@ -4,8 +4,7 @@ Created on 27.12.2013
 @author: uhs374h
 """
 import unittest
-from bruch.Bruch import *
-
+from src.Bruch import *
 
 class TestAllgemein(unittest.TestCase):
 
